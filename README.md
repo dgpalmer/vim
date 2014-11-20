@@ -5,9 +5,7 @@
 - Built upon the best text editor there is.
 
 ### Cons.
-- None
 - Not enough custom keymappings.
-- Steep Learning Curve
 
 ### Plugins
 
