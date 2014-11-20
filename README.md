@@ -1,10 +1,10 @@
-### Pros.
+### Pros
 - Minimalist vim configuration
 - Clean & elegant UI
 - Beautiful colorscheme that is easy on the eyes [xoria256](https://github.com/vim-scripts/xoria256.vim)
 - Built upon the best text editor there is.
 
-### Cons.
+### Cons
 - Not enough custom keymappings.
 
 ### Plugins
