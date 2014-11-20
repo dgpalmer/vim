@@ -17,7 +17,7 @@
 - [nerdtree](https://github.com/scrooloose/nerdtree.git)
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align.git)
 
-### Usage
+### Installation
 
 Clone my repo into your system
 ```
