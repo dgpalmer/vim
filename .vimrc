@@ -54,7 +54,9 @@ set undolevels=1000 " Use many levels of undo
 set autoread " Auto read when a file is changed from the outside
 set nobackup " Turn backup off
 set noswapfile " Turn swap off
+set nowrap " don't wrap lines
 set nowritebackup
+set mouse=a
 
 " Code configs
 syntax on
