@@ -56,7 +56,7 @@ set nobackup " Turn backup off
 set noswapfile " Turn swap off
 set nowrap " don't wrap lines
 set nowritebackup
-set mouse=a
+set mouse=a " No line numbers on text selection
 
 " Code configs
 syntax on
